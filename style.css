@@ -705,3 +705,12 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+h2{
+	color: red;
+}
