@@ -714,3 +714,7 @@ a{
 h2{
 	color: red;
 }
+
+.vid-box{
+	max-width: 50%;
+}
